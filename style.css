@@ -1,0 +1,14 @@
+.alldiv {
+    display: flex;
+    justify-content: space-around;
+}
+.myDIV {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+  }
+.myDIV2 {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+  }
